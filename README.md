@@ -1,1 +1,1 @@
-# Image-Caption-Generator--Flickr-Dataset-
+# Image-Caption-Generator-Flickr-Dataset
